@@ -1,4 +1,4 @@
-# Introducción al Lenguaje Java
+# Informe Lab 01 Programación III. 
 
 **Autores:** Ruiz Juan David y Ruiz Elkin Santiago  
 **Correos Electrónicos:** est.juan.druizg@unimilitar.edu.co, est.elkin.ruiz@unimilitar.edu.co  
